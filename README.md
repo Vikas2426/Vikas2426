@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas2426&label=Profile%20views&color=0e75b6&style=flat" alt="vikas2426" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikas2426" alt="vikas2426" /></a> </p>
+
 - 🌱 I’m currently learning **React-native**
 
 - 👨‍💻 All of my projects are available at [https://vikasresume.netlify.app/](https://vikasresume.netlify.app/)
