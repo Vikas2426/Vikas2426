@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React-native**
 
+- 👯 Interested in collaborating on **React** Projects
+
 - 👨‍💻 All of my projects are available at [My_Portfolio](https://vikasresume.netlify.app/)
 
 - 📝 I regularly write articles on [My_Blog](https://vikasjs-blog.netlify.app/)
@@ -17,7 +19,6 @@
 
 - ⚡ Fun fact **I like to ride bikes**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vikas-choubey" target="blank" style="margin-right: 20px"><img align="center" src="assests/linkedin.png" alt="vikas-choubey" height="40" width="40" /></a>
@@ -25,7 +26,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank"style="margin-right: 10px" > <img src="assests/express.png" alt="express" width="100" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"style="margin-right: 10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"style="margin-right: 10px"> <img src="assests/mongo.jpeg" alt="mongodb" width="60" height="30"/> </a> <a href="https://nodejs.org" target="_blank"style="margin-right: 10px"> <img src="assests/node.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"style="margin-right: 10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://expressjs.com" target="_blank"style="margin-right: 10px" > <img src="assests/express.png" alt="express" width="100" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"style="margin-right: 10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"style="margin-right: 10px"> <img src="assests/mongo.jpeg" alt="mongodb" width="60" height="30"/> </a> <a href="https://nodejs.org" target="_blank"style="margin-right: 10px"> <img src="assests/node.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"style="margin-right: 10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://styled-components.com/" target="_blank"> <img src="assests/styled.png" alt="styled-components" width="40" height="40"/> </a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikas2426" alt="vikas2426" /></a> </p>
 
