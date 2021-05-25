@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikas Choubey</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas2426&label=Profile%20views&color=0e75b6&style=flat" alt="vikas2426" /> </p>
-
 - 🌱 I’m currently learning **React-native**
 
 - 👯 Interested in collaborating on **React** Projects
@@ -30,8 +28,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikas2426" alt="vikas2426" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas2426&show_icons=true&hide_border=false&theme=dracula&layout=compact&langs_count=4" alt="vikas2426" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas2426&show_icons=true&hide_border=false&theme=dracula&layout=compact&langs_count=4" alt="vikas2426" height="200em" width="400em"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas2426&show_icons=true&hide_border=false&theme=dracula" alt="vikas2426" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas2426&show_icons=true&hide_border=false&theme=dracula" alt="vikas2426" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=vikas2426&show_icons=true&hide_border=false&theme=dracula" alt="vikas2426" height="200em" width="400em"/></p>
