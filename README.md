@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vikas.cby@gmail.com**
 
-- 📄 Know about my experiences [My_Resume](https://drive.google.com/drive/u/0/folders/1Ggc0pMxOcTP6z8YJ-dmKWGdQ7IHNubuJ)
+- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1fMSg9s7wB5Ijx7OTxstoV6hDq6cSiUv-/view?usp=sharing)
 
 - ⚡ Fun fact **I like to ride bikes**
 
