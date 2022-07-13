@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikas Choubey</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **Webpack**
 
 - 👯 Interested in collaborating on **React** Projects
 
@@ -9,11 +9,11 @@
 
 - 📝 I regularly write articles on [My_Blog](https://vikasjs-blog.netlify.app/)
 
-- 💬 Ask me about **javascript, react, typescript, node,express**
+- 💬 Ask me about **Javascript, React.js, Typescript, Node, Express, GraphQL**
 
 - 📫 How to reach me **vikas.cby@gmail.com**
 
-- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1fMSg9s7wB5Ijx7OTxstoV6hDq6cSiUv-/view?usp=sharing)
+- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1VvgnAlY5UACpmXAOdI-6Gelu3CDtqU_8/view?usp=sharing)
 
 - ⚡ Fun fact **I like to ride bikes**
 
