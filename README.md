@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [My_Portfolio](https://vikasresume.netlify.app/)
 
-- 📝 I regularly write articles on [My_Blog](https://vikasjs-blog.netlify.app/) [dev.to](https://dev.to/vikas2426)
+- 📝 I regularly write articles on [My_Blog](https://vikasjs-blog.netlify.app/)     [DEV.TO](https://dev.to/vikas2426)
 
 - 💬 Ask me about **Javascript, React.js, Typescript, Node, Express, GraphQL**
 
